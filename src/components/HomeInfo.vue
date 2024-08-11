@@ -9,7 +9,7 @@
 
     <section>
 
-        <div class="border border-[#293241] rounded-t-2xl bg-[#293241] p-20 text-white bg-opacity-80">
+        <div class="border border-[#293241] rounded-t-2xl bg-[#222831] p-20 text-[#EEEEEE]">
             
             <HomeNews />
             <HomeBlog />

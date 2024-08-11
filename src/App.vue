@@ -9,10 +9,11 @@
 
 <template>
 
+  <section class="text-[#EEEEEE]">
+    <Navbar />
+    <Herosection />
 
-  <Navbar />
-  <Herosection />
-
-  <HomeInfo />
+    <HomeInfo />
+  </section>
 
 </template>
